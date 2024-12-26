@@ -18,7 +18,7 @@ PROMPT = (
     "Only tell me True if damaged and False if not."
 )
 
-INPUT_IMAGES_DIR = "placas/test/"
+INPUT_IMAGES_DIR = "test/"
 TXT_OUTPUT_DIR    = "txt_outputs"
 
 VALID_EXTENSIONS = (".jpeg", ".jpg", ".png")
